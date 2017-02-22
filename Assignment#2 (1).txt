@@ -1,0 +1,6 @@
+12.1 super class is passed as constructor to the subclass 
+super().__init() is called to initialize the super classs constructor 
+
+12.2  We cannot access value in i ( which is defined in super class) and the contructor for the super class is not being called in subclass.
+
+12.3 True
